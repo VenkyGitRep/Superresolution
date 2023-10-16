@@ -1,12 +1,17 @@
-# Superresolution
+Github : https://github.com/VenkyGitRep/Superresolution/tree/main
+
+Submission by : Venkateshwaran Sundar (sundar.ve@northeastern.edu)
+
+
+# Super-resolution
 Super-resolution using CNNs. In this submission, I've attempted to recreate the experiments performed in Dong. et al using CNNs for superresolution, using the Set14 dataset.
 The metrics I've used are
 
-  *Peak Signal to Noise Ration (PSNR)
+  * Peak Signal to Noise Ration (PSNR)
   
-  *Mean Squared Error (MSE)
+  * Mean Squared Error (MSE)
   
-  *Structural Similarity (SSIM)
+  * Structural Similarity (SSIM)
 
 I've implemented PSNR and MSE functions while using structural_similarity from skimage.metrics
 
