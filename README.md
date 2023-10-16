@@ -46,8 +46,8 @@ PSNR is an improvement relative to the distorted image. However, it's nowhere ne
 
 References :
 
-Super-Resolution Convolutional Neural Network: https://goodboychan.github.io/python/deep_learning/vision/tensorflow-keras/2020/10/13/01-Super-Resolution-CNN.html
-Chao Dong, Chen Change Loy, Kaiming He, and Xiaoou Tang, "Learning a Deep Convolutional Network for Image Super-Resolution", ECCV, 2014.
+* Super-Resolution Convolutional Neural Network: https://goodboychan.github.io/python/deep_learning/vision/tensorflow-keras/2020/10/13/01-Super-Resolution-CNN.html
+* Chao Dong, Chen Change Loy, Kaiming He, and Xiaoou Tang, "Learning a Deep Convolutional Network for Image Super-Resolution", ECCV, 2014.
 
 
 
